@@ -1,7 +1,7 @@
 {
  "name": "FlowHubb",
- "website": "medium.com/@flowhubb",
- "description": "FlowHubb validator,service designed to validate and ensure the correctness of data, to attest and validate nodes,preventing errors and enhancing the reliability of processes within the ecosystem.",
+ "website": "https://medium.com/@flowhubb/about",
+ "description": "FlowHubb validator,a service designed to validate and ensure the correctness of data, to attest and validate nodes,preventing errors and enhancing the reliability of processes within the ecosystem.",
  "logo": "https://cdn-images-1.medium.com/v2/resize:fit:800/1*05xJVSoh5heqkU6eXGq0mA.png",
  "twitter": "https://twitter.com/web3webhost"
 }
